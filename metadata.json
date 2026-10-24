@@ -1,0 +1,6 @@
+{
+  "name": "111% TAN 系列街機合輯",
+  "description": "111% 核心代表作 6合1 物理彈射復刻版：BBTAN、CCTAN、DDTAN、EETAN、FFTAN、GGTAN 完整機制拆解與遊玩",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
